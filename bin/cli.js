@@ -27,4 +27,4 @@ const installDeps = runCommand(installDepsCommand);
 if (!installDeps) process.exit(-1);
 
 console.log('Tudo certo, agora mão na massa!!');
-console.log(`cd ${repoName}`);
+console.log(`cd ${repoName} && npm run dev`);
