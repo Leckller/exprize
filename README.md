@@ -1,4 +1,4 @@
-Package for create quickly backend projects;
+Package for create quickly backend projects with Sequelize, Express and TypeScript;
 
 Para criar um setup local com este pacote use o seguinte comando: "npx exprize (nome do repositório)"
 
